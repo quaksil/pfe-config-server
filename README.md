@@ -1,2 +1,2 @@
 # pfe-config-server
- Config Server for Microservices
+This is a config server for MSA
