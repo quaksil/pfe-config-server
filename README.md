@@ -1,2 +1,2 @@
 # pfe-config-server
-This is a config server for MSA
+This is a config server for related pfe work.
